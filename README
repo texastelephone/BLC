@@ -1,0 +1,5 @@
+# Building
+ * Requires nasm to build
+    $ make
+    $ ./run.sh
+
